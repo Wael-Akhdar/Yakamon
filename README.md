@@ -1,4 +1,4 @@
-# Yakamon - Enterprise REST Backend
+# Yakamon - Quarkus REST Backend API
 
 > **Showcase Repository:** To comply with EPITA's anti-plagiarism regulations, the raw source code of this backend project is kept private. This repository serves as an architectural showcase documenting the API design, the ORM modeling, and the core layered structure.
 
