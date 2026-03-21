@@ -39,4 +39,4 @@ The game map is injected dynamically and parsed into a 2D grid of `TileType` obj
 
 ### Swagger UI / OpenAPI Specification
 The API endpoints are fully documented and testable via Swagger UI.
-`![Swagger UI Screenshot](img/swagger_demo.png)`
+![Swagger UI Screenshot](img/API.png)
