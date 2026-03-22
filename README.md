@@ -10,6 +10,10 @@
 
 The application is built using the **Quarkus** framework and follows a strict multi-tier architecture to ensure modularity and separation of concerns.
 
+<p align="center">
+  <img src="img/Layers.png" width="400">
+</p>
+
 ### 1. Presentation Layer (REST & DTOs)
 * Handled by JAX-RS (Jakarta RESTful Web Services).
 * Exposes standard HTTP endpoints (`/player`, `/move`, `/yakadex`, etc.).
@@ -23,6 +27,8 @@ The application is built using the **Quarkus** framework and follows a strict mu
 ### 3. Data Access Layer (Hibernate ORM)
 * Manages persistence using **Hibernate ORM** with the Active Record / Repository pattern.
 * Defines relational entities (Player, Game, Yakamon, Item) mapped to a PostgreSQL database.
+
+
 
 ## 🚀 Technical Highlights
 
