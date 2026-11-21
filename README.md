@@ -39,6 +39,10 @@ The service layer calculates the time delta between the current request and the 
 ### 🗺️ Map Parsing & State Persistence
 The game map is injected dynamically and parsed into a 2D grid of `TileType` objects. The backend persists the player's `X` and `Y` coordinates in the database, validating every directional movement against the grid boundaries and the walkability constraints of specific terrains (e.g., Water, Lava, Mountain).
 
+## 🛠️ Skills
+
+`Java Web Server` · `REST APIs` · `Back-End Web Development`
+
 ## 🎯 API Demonstration
 
 *(Visual proof of the API capabilities)*
